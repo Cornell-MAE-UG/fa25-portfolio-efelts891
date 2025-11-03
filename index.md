@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Emily Felts
 ---
 
 ## About Me

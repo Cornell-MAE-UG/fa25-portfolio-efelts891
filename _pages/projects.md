@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Emily Felts - Portfolio
 permalink: /projects/
 ---
 

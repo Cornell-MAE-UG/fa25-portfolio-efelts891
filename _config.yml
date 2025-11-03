@@ -8,12 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Emily Felts
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : Emily Felts
+description              : Emily Felts - Projects and CV 
+baseurl                  : "FA25-Portfolio-efelts891" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
