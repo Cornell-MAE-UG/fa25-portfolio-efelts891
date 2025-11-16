@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Emily Felts
 description              : Emily Felts - Projects and CV 
-baseurl                  : "" # Set this to your repo name fa25-portfolio-efelts891
+baseurl                  : "/fa25-portfolio-efelts891/" # Set this to your repo name fa25-portfolio-efelts891
 
 # Theme and Style
 theme: jekyll-theme-minimal
