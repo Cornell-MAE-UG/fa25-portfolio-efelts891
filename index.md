@@ -9,8 +9,11 @@ title: Emily Felts
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ site.name }}, and I am a third year mechanical engineering student at Cornell University with a minor in Physics. I am interested in engineering education and product design. I want to make complex engineering and physics topics more accessible to everyone. On campus, I am on the AutoBoat project team on the hull design and manufacturing subteam. This year, I worked on the internal rib structure of the main hull and amas. I have found a lot of joy in sharing my knowledge of CAD and ANSYS FEA with the new members this year and watching all of our projects come together to make a new automated boat. 
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Outside of engineering, I participated as a learning assistant in the Physics department where I worked alongside a graduate TA in a discussion section for Introduction to Electricity and Magnetism. I am now a tutor in the Physics Learning Strategy Center where I help on average 5 students per 2 hour session with a variety of introductory physics courses. I am also in both the marching and pep bands on campus where I serve as a rank leader responsible for teaching 5 new members how to march. 
+
+On this site, you can learn more about my past projects, resume, and relevant courses.
+
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
