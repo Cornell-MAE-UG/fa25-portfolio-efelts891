@@ -1,13 +1,16 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: Water Bottle Brush Multi-Tool - MAE 2250
+description: Group Design and Protyping Project
+technologies: [Fusion360, prototyping, design iteration]
+image: /assets/images/brush_rendering.png
 ---
 
+![Rendering of water bottle brush]({{ "/assets/images/brush_rendering.png" | relative_url }}){: .inline-image-l}
+This project consisted of the idea generation, design, prototyping, and iteration of a versatile water bottle cleaner. The focus of the design was usability as the main focus combining the functionality of multiple brushes into one compact tool. I paid extra attention to ensuring the cleaner could reach all aspects of a complicated water bottle geometry. 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+This project was for the class, MAE 2250 - Introduction to Mechanical Design and combines skills such as CAD modeling and rendering using Fusion360, hands-on prototyping, and presenting. I was tasked to work in a group of 5 people to research and design a new product for an open design project (ODP). I mainly focused on prototyping and helping out my group to complete the weekly assignments. 
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+You can view the entire project here: https://drive.google.com/drive/folders/1po0Yn8TPOSCWD4EWMv4fcB-BSPIU4NME?usp=sharing 
+
 
