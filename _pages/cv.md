@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Felts_Resume.pdf" | relative_url }}) in PDF format.
+[Download my updated CV]({{ "/assets/Felts_Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [ef438@cornell.edu](mailto:ef438@cornell.edu) | | | **Phone:** 773 557 5432
